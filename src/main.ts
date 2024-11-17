@@ -10,6 +10,11 @@ import './basic/4.ts';
 import './basic/5.ts';
 import './basic/6.ts';
 import './basic/7.ts';
+import './gererics/1.ts'
+import './gererics/2.ts'
+import './gererics/3.ts'
+import './gererics/4.ts'
+import './gererics/5.ts'
 
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
   <div>
